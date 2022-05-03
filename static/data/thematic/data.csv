@@ -1,38 +1,38 @@
-country	id	value
-Albania	AL	null
-Austria	AT	8.8
-Belgium	BE	10.51
-Bulgaria	BG	6.76
-Croatia	HR	4.59
-Cyprus	CY	10.77
-Czechia	CZ	12.94
-Denmark	DK	8.56
-Estonia	EE	10.7
-Finland	FI	7.42
-France	FR	6.31
-Germany	DE	9.91
-Greece	EL	8.04
-Hungary	HU	6.11
-Iceland	IS	null
-Ireland	IE	13.69
-Italy	IT	6.52
-Latvia	LV	5.48
-Liechtenstein	LI	null
-Lithuania	LT	5.48
-Luxembourg	LU	19.75
-Malta	MT	5.34
-Montenegro	ME	null
-Netherlands	NL	11.37
-North Macedonia	MK	null
-Norway	NO	null
-Poland	PL	9.98
-Portugal	PT	5.85
-Romania	RO	4.34
-Serbia	RS	null
-Slovakia	SK	6.2
-Slovenia	SI	8.16
-Spain	ES	6.28
-Sweden	SE	1.76
-Switzerland	CH	null
-Ukraine	UA	null
-United Kingdom	UK	null
+country,id,value
+Albania,AL,null
+Austria,AT,8.8
+Belgium,BE,10.51
+Bulgaria,BG,6.76
+Croatia,HR,4.59
+Cyprus,CY,10.77
+Czechia,CZ,12.94
+Denmark,DK,8.56
+Estonia,EE,10.7
+Finland,FI,7.42
+France,FR,6.31
+Germany,DE,9.91
+Greece,EL,8.04
+Hungary,HU,6.11
+Iceland,IS,null
+Ireland,IE,13.69
+Italy,IT,6.52
+Latvia,LV,5.48
+Liechtenstein,LI,null
+Lithuania,LT,5.48
+Luxembourg,LU,19.75
+Malta,MT,5.34
+Montenegro,ME,null
+Netherlands,NL,11.37
+North Macedonia,MK,null
+Norway,NO,null
+Poland,PL,9.98
+Portugal,PT,5.85
+Romania,RO,4.34
+Serbia,RS,null
+Slovakia,SK,6.2
+Slovenia,SI,8.16
+Spain,ES,6.28
+Sweden,SE,1.76
+Switzerland,CH,null
+Ukraine,UA,null
+United Kingdom,UK,null
