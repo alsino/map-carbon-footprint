@@ -1,12 +1,12 @@
 {
-  "heading": "Výdaje na vzdělávání ve všech zemích EU",
-  "subheading": "Vládní výdaje na vojenskou obranu jako procento HDP v zemích Evropské unie v roce 2020",
+  "heading": "Uhlíková stopa evropských občanů",
+  "subheading": "Celkové emise skleníkových plynů na obyvatele v EU v roce 2019",
   "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "HDP",
+  "tooltip1": "kt ekvivalent CO2",
   "textSourceDescription": "Zdroj",
-  "textSource": "Eurostat",
+  "textSource": "EHP",
   "textNoteDescription": "Poznámka",
-  "textNote": "Vládní výdaje podle funkce a typu COFOG (klasifikace funkcí vlády UNSD, replikovaná v ESA2010).",
+  "textNote": "Prohlížeč dat o emisích a odstranění skleníkových plynů zasílaných zeměmi UNFCCC a mechanismu EU pro monitorování skleníkových plynů (členské státy EU).",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=cs"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Tháinig méadú ar chaiteachas oideachais ar fud thíortha uile an AE",
-  "subheading": "Caiteachas an rialtais ghinearálta ar chosaint mhíleata mar chéatadán den OTI i dtíortha an Aontais Eorpaigh in 2020",
+  "heading": "Lorg carbóin na saoránach Eorpach",
+  "subheading": "Iomlán na n-astaíochtaí gás ceaptha teasa per capita san AE in 2019",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "de OTI",
+  "tooltip1": "coibhéis kt CO2",
   "textSourceDescription": "Foinse",
-  "textSource": "Eurostat",
+  "textSource": "LEE",
   "textNoteDescription": "Nóta",
-  "textNote": "Caiteachas rialtais de réir feidhme agus cineál COFOG (aicmiú UNSD ar fheidhmeanna an rialtais, arna mhacasamhlú in CCE2010).",
+  "textNote": "Breathnóir sonraí ar astuithe agus aistrithe gás ceaptha teasa, a sheol tíortha chuig UNFCCC agus chuig Meicníocht Monatóireachta Gáis Cheaptha Teasa an AE (Ballstáit an AE).",
   "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=ga"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

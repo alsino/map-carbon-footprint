@@ -1,12 +1,12 @@
 {
-  "heading": "Bildungsausgaben in allen EU-Ländern gestiegen",
-  "subheading": "Staatliche Verteidigungsausgaben in Prozent des BIP in den Ländern der Europäischen Union im Jahr 2020",
+  "heading": "CO2-Fußabdruck der europäischen Bürger",
+  "subheading": "Gesamte Treibhausgasemissionen pro Kopf in der EU im Jahr 2019",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "des BIP",
+  "tooltip1": "kt CO2-Äquivalent",
   "textSourceDescription": "Quelle",
-  "textSource": "Eurostat",
+  "textSource": "EWR",
   "textNoteDescription": "Notiz",
-  "textNote": "Staatsausgaben nach Funktion und Art der COFOG (UNSD-Klassifikation der Staatsfunktionen, repliziert im ESVG 2010).",
+  "textNote": "Daten-Viewer zu Treibhausgasemissionen und -abbau, der von Ländern an UNFCCC und den EU-Mechanismus zur Überwachung von Treibhausgasen (EU-Mitgliedstaaten) gesendet wird.",
   "textDataAccess": "Greifen Sie auf die Daten zu",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

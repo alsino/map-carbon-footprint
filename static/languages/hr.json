@@ -1,12 +1,12 @@
 {
-  "heading": "Potrošnja na obrazovanje raste u svim zemljama EU",
-  "subheading": "Rashodi opće države za vojnu obranu kao postotak BDP-a u zemljama Europske unije u 2020.",
+  "heading": "Ugljični otisak europskih građana",
+  "subheading": "Ukupne emisije stakleničkih plinova po stanovniku u EU u 2019",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "BDP-a",
+  "tooltip1": "kt CO2 ekvivalent",
   "textSourceDescription": "Izvor",
-  "textSource": "Eurostat",
+  "textSource": "EEA",
   "textNoteDescription": "Bilješka",
-  "textNote": "Državni rashodi prema funkciji i vrsti COFOG (UNSD klasifikacija funkcija vlade, replicirana u ESA2010).",
+  "textNote": "Preglednik podataka o emisijama i uklanjanju stakleničkih plinova, koje zemlje šalju UNFCCC-u i Mehanizmu za praćenje stakleničkih plinova EU (države članice EU).",
   "textDataAccess": "Pristup podacima",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=hr"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

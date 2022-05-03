@@ -1,12 +1,12 @@
 {
-  "heading": "Išlaidos švietimui visose ES šalyse",
-  "subheading": "Bendrosios valdžios išlaidos karinei gynybai procentais nuo BVP Europos Sąjungos šalyse 2020 m",
+  "heading": "Europos piliečių anglies pėdsakas",
+  "subheading": "Bendras šiltnamio efektą sukeliančių dujų kiekis, tenkantis vienam ES gyventojui 2019 m",
   "legend1": "Nėra duomenų",
-  "tooltip1": "BVP",
+  "tooltip1": "kt CO2 ekvivalentas",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Eurostatas",
+  "textSource": "EEE",
   "textNoteDescription": "Pastaba",
-  "textNote": "Valdžios išlaidos pagal COFOG (UNSD vyriausybės funkcijų klasifikatorius, pakartotas ESS2010) funkciją ir tipą.",
+  "textNote": "Duomenų peržiūros priemonė apie šiltnamio efektą sukeliančių dujų išmetimą ir pašalinimą, siunčiama šalių į JTBKKK ir ES šiltnamio efektą sukeliančių dujų stebėsenos mechanizmą (ES valstybės narės).",
   "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

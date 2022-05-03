@@ -1,12 +1,12 @@
 {
-  "heading": "Wzrost wydatków na edukację we wszystkich krajach UE",
-  "subheading": "Wydatki sektora instytucji rządowych i samorządowych na obronę wojskową jako procent PKB w krajach Unii Europejskiej w 2020 roku",
+  "heading": "Ślad węglowy obywateli Europy",
+  "subheading": "Całkowite emisje gazów cieplarnianych na mieszkańca w UE w 2019 r.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "PKB",
+  "tooltip1": "kt ekwiwalentu CO2",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostat",
+  "textSource": "EOG",
   "textNoteDescription": "Notatka",
-  "textNote": "Wydatki rządowe według COFOG (klasyfikacja funkcji rządu według UNSD, powtórzona w ESA2010) funkcji i rodzaju.",
+  "textNote": "Przeglądarka danych na temat emisji i pochłaniania gazów cieplarnianych, przesyłanych przez kraje do UNFCCC i unijnego mechanizmu monitorowania gazów cieplarnianych (państwa członkowskie UE).",
   "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

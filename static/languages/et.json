@@ -1,12 +1,12 @@
 {
-  "heading": "Hariduskulud kõigis ELi riikides",
-  "subheading": "Valitsussektori kulutused sõjalisele kaitsele protsendina SKTst Euroopa Liidu riikides 2020. aastal",
+  "heading": "Euroopa kodanike süsiniku jalajälg",
+  "subheading": "Kasvuhoonegaaside koguheide elaniku kohta ELis 2019. aastal",
   "legend1": "Andmed puuduvad",
-  "tooltip1": "SKTst",
+  "tooltip1": "kt CO2 ekvivalenti",
   "textSourceDescription": "Allikas",
-  "textSource": "Eurostat",
+  "textSource": "EMP",
   "textNoteDescription": "Märge",
-  "textNote": "Valitsemissektori kulud COFOG-i (UNSD klassifikatsioon valitsusfunktsioonide klassifikatsioonist, korratud ESA2010-s) funktsiooni ja tüübi järgi.",
+  "textNote": "Andmete vaataja kasvuhoonegaaside heitkoguste ja sidumise kohta, mille riigid on saatnud ÜRO kliimamuutuste raamkonventsioonile ja ELi kasvuhoonegaaside seiremehhanismile (ELi liikmesriigid).",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

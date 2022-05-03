@@ -1,12 +1,12 @@
 {
-  "heading": "Αυξάνονται οι δαπάνες για την εκπαίδευση σε όλες τις χώρες της ΕΕ",
-  "subheading": "Δαπάνες γενικής κυβέρνησης για στρατιωτική άμυνα ως ποσοστό του ΑΕΠ στις χώρες της Ευρωπαϊκής Ένωσης το 2020",
+  "heading": "Αποτύπωμα άνθρακα των ευρωπαίων πολιτών",
+  "subheading": "Συνολικές κατά κεφαλήν εκπομπές αερίων θερμοκηπίου στην ΕΕ το 2019",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
-  "tooltip1": "του ΑΕΠ",
+  "tooltip1": "kt ισοδύναμο CO2",
   "textSourceDescription": "Πηγή",
-  "textSource": "Eurostat",
+  "textSource": "ΕΟΧ",
   "textNoteDescription": "Σημείωση",
-  "textNote": "Κρατικές δαπάνες κατά COFOG (ταξινόμηση UNSD των λειτουργιών της κυβέρνησης, που αναπαράγεται στο ESA2010) λειτουργία και τύπος.",
+  "textNote": "Πρόγραμμα προβολής δεδομένων σχετικά με τις εκπομπές και τις αφαιρέσεις αερίων του θερμοκηπίου, που αποστέλλονται από χώρες στην UNFCCC και στον Μηχανισμό Παρακολούθησης των Αερίων Θερμοκηπίου της ΕΕ (κράτη μέλη της ΕΕ).",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

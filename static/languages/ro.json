@@ -1,12 +1,12 @@
 {
-  "heading": "Cheltuielile pentru educație în toate țările UE",
-  "subheading": "Cheltuielile publice generale pentru apărarea militară ca procent din PIB în țările Uniunii Europene în 2020",
+  "heading": "Amprenta de carbon a cetățenilor europeni",
+  "subheading": "Emisiile totale de gaze cu efect de seră pe cap de locuitor în UE în 2019",
   "legend1": "Nici o informatie disponibila",
-  "tooltip1": "a PIB-ului",
+  "tooltip1": "kt CO2 echivalent",
   "textSourceDescription": "Sursă",
-  "textSource": "Eurostat",
+  "textSource": "SEE",
   "textNoteDescription": "Notă",
-  "textNote": "Cheltuielile guvernamentale după funcția și tipul COFOG (clasificarea UNSD a funcțiilor guvernamentale, replicată în ESA2010).",
+  "textNote": "Vizualizator de date privind emisiile și eliminările de gaze cu efect de seră, trimis de țări către UNFCCC și Mecanismul UE de monitorizare a gazelor cu efect de seră (state membre ale UE).",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Izglītības izdevumi visās ES valstīs",
-  "subheading": "Vispārējie valdības izdevumi militārajai aizsardzībai procentos no IKP Eiropas Savienības valstīs 2020. gadā",
+  "heading": "Eiropas iedzīvotāju oglekļa pēdas nospiedums",
+  "subheading": "Kopējās siltumnīcefekta gāzu emisijas uz vienu iedzīvotāju ES 2019. gadā",
   "legend1": "Nav pieejami dati",
-  "tooltip1": "no IKP",
+  "tooltip1": "kt CO2 ekvivalents",
   "textSourceDescription": "Avots",
-  "textSource": "Eurostat",
+  "textSource": "EEZ",
   "textNoteDescription": "Piezīme",
-  "textNote": "Valdības izdevumi pēc COFOG (UNSD valdības funkciju klasifikācija, replicēta EKS2010) funkcijas un veida.",
+  "textNote": "Datu skatītājs par siltumnīcefekta gāzu emisijām un piesaisti, ko valstis nosūtījušas UNFCCC un ES siltumnīcefekta gāzu monitoringa mehānismam (ES dalībvalstis).",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

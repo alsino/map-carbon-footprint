@@ -1,12 +1,12 @@
 {
-  "heading": "Az oktatási kiadások az EU összes országában emelkednek",
-  "subheading": "Az államháztartás katonai védelemre fordított kiadásai a GDP százalékában az Európai Unió országaiban 2020-ban",
+  "heading": "Az európai polgárok szénlábnyoma",
+  "subheading": "Az egy főre jutó üvegházhatású gázok teljes kibocsátása az EU-ban 2019-ben",
   "legend1": "Nincs elérhető adat",
-  "tooltip1": "a GDP",
+  "tooltip1": "kt CO2 egyenérték",
   "textSourceDescription": "Forrás",
-  "textSource": "Eurostat",
+  "textSource": "EGT",
   "textNoteDescription": "jegyzet",
-  "textNote": "Kormányzati kiadások COFOG (UNSD Classification of Government Functions, replikálva az ESA2010-ben) funkció és típus szerint.",
+  "textNote": "Az országok által az UNFCCC-nek és az EU üvegházhatású gázok megfigyelési mechanizmusának (EU-tagállamok) elküldött adatmegjelenítője az üvegházhatású gázok kibocsátásáról és eltávolításáról.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

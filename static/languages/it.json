@@ -1,12 +1,12 @@
 {
-  "heading": "Spesa per l'istruzione in aumento in tutti i paesi dell'UE",
-  "subheading": "Spesa delle amministrazioni pubbliche per la difesa militare in percentuale del PIL nei paesi dell'Unione Europea nel 2020",
+  "heading": "Impronta di carbonio dei cittadini europei",
+  "subheading": "Emissioni totali di gas serra pro capite nell'UE nel 2019",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "del PIL",
+  "tooltip1": "kt CO2 equivalente",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat",
+  "textSource": "SEE",
   "textNoteDescription": "Nota",
-  "textNote": "Spesa pubblica per funzione e tipologia COFOG (classificazione UNSD delle funzioni di governo, replicata in ESA2010).",
+  "textNote": "Visualizzatore di dati sulle emissioni e gli assorbimenti di gas serra, inviati dai paesi all'UNFCCC e al meccanismo di monitoraggio dei gas a effetto serra dell'UE (Stati membri dell'UE).",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

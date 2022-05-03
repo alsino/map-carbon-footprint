@@ -1,12 +1,12 @@
 {
-  "heading": "Les dépenses d'éducation augmentent dans tous les pays de l'UE",
-  "subheading": "Dépenses publiques de défense militaire en pourcentage du PIB dans les pays de l'Union européenne en 2020",
+  "heading": "Empreinte carbone des citoyens européens",
+  "subheading": "Émissions totales de gaz à effet de serre par habitant dans l'UE en 2019",
   "legend1": "Pas de données disponibles",
-  "tooltip1": "du PIB",
+  "tooltip1": "kt équivalent CO2",
   "textSourceDescription": "La source",
-  "textSource": "Eurostat",
+  "textSource": "EEE",
   "textNoteDescription": "Noter",
-  "textNote": "Dépenses publiques par COFOG (Classification UNSD des fonctions du gouvernement, reproduite dans le SEC 2010) fonction et type.",
+  "textNote": "Visualiseur de données sur les émissions et absorptions de gaz à effet de serre, envoyé par les pays à la CCNUCC et au mécanisme de surveillance des gaz à effet de serre de l'UE (États membres de l'UE).",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

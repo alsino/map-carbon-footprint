@@ -1,12 +1,12 @@
 {
-  "heading": "Izdatki za izobraževanje so se povečali v vseh državah EU",
-  "subheading": "Državni izdatki za vojaško obrambo kot odstotek BDP v državah Evropske unije leta 2020",
+  "heading": "Ogljični odtis evropskih državljanov",
+  "subheading": "Skupne emisije toplogrednih plinov na prebivalca v EU v letu 2019",
   "legend1": "Podatkov ni na voljo",
-  "tooltip1": "BDP",
+  "tooltip1": "kt ekvivalenta CO2",
   "textSourceDescription": "Vir",
-  "textSource": "Eurostat",
+  "textSource": "EGP",
   "textNoteDescription": "Opomba",
-  "textNote": "Državni izdatki po funkciji in vrsti COFOG (UNSD klasifikacija funkcij vlade, ponovljena v ESR 2010).",
+  "textNote": "Pregledovalnik podatkov o emisijah in odstranjevanju toplogrednih plinov, ki so jih države poslale UNFCCC in mehanizmu EU za spremljanje toplogrednih plinov (države članice EU).",
   "textDataAccess": "Dostop do podatkov",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

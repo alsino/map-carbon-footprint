@@ -1,12 +1,12 @@
 {
-  "heading": "Koulutusmenot kasvavat kaikissa EU-maissa",
-  "subheading": "Julkiset menot sotilaalliseen puolustukseen suhteessa BKT:hen Euroopan unionin maissa vuonna 2020",
+  "heading": "Euroopan kansalaisten hiilijalanjälki",
+  "subheading": "Kasvihuonekaasujen kokonaispäästöt asukasta kohti EU:ssa vuonna 2019",
   "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "BKT:sta",
+  "tooltip1": "kt CO2 ekvivalenttia",
   "textSourceDescription": "Lähde",
-  "textSource": "Eurostat",
+  "textSource": "ETA",
   "textNoteDescription": "Huomautus",
-  "textNote": "Julkiset menot COFOG:n (UNSD:n julkishallinnon toimintojen luokittelu, jäljennetty EKT2010:ssä) toiminnon ja tyypin mukaan.",
+  "textNote": "Maiden UNFCCC:lle ja EU:n kasvihuonekaasujen seurantamekanismille (EU:n jäsenvaltiot) lähettämä datakatseluohjelma kasvihuonekaasupäästöistä ja -poiminnoista.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=fi"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

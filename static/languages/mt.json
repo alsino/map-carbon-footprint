@@ -1,12 +1,12 @@
 {
-  "heading": "L-infiq fl-edukazzjoni jiżdied fil-pajjiżi kollha tal-UE",
-  "subheading": "In-nefqa ġenerali tal-gvern fuq id-difiża militari bħala perċentwal tal-PGD fil-pajjiżi tal-Unjoni Ewropea fl-2020",
+  "heading": "Carbon footprint taċ-ċittadini Ewropej",
+  "subheading": "Emissjonijiet totali ta' gassijiet serra per capita fl-UE fl-2019",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltip1": "tal-PGD",
+  "tooltip1": "kt CO2 ekwivalenti",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "ŻEE",
   "textNoteDescription": "Nota",
-  "textNote": "Nefqa tal-gvern skont il-funzjoni u t-tip tal-COFOG (klassifikazzjoni UNSD tal-funzjonijiet tal-gvern, replikata fl-ESA2010).",
+  "textNote": "Viewer tad-dejta dwar l-emissjonijiet u t-tneħħija tal-gassijiet serra, mibgħuta mill-pajjiżi lill-UNFCCC u lill-Mekkaniżmu tal-UE għall-Monitoraġġ tal-Gassijiet Serra (l-Istati Membri tal-UE).",
   "textDataAccess": "Aċċessa għad-data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }
