@@ -1,12 +1,12 @@
 {
-	"heading": "Education spending up across all EU countries",
-	"subheading": "General government expenditure on military defense as a percentage of GDP in countries of the European Union in 2020",
+	"heading": "Carbon footprint of European citizens",
+	"subheading": "Total greenhouse gas emissions per capita in the EU in 2019",
 	"legend1": "No data available",
-	"tooltip1": "of GDP",
+	"tooltip1": "kt CO2 equivalent",
 	"textSourceDescription": "Source",
-	"textSource": "Eurostat",
+	"textSource": "EEA",
 	"textNoteDescription": "Note",
-	"textNote": "Government expenditure by COFOG (UNSD classification of functions of government, replicated in ESA2010) function and type.",
+	"textNote": "Data viewer on greenhouse gas emissions and removals, sent by countries to UNFCCC and the EU Greenhouse Gas Monitoring Mechanism (EU Member States).",
 	"textDataAccess": "Access the data",
-	"linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+	"linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }
